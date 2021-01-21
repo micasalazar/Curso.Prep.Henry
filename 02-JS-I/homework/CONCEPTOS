@@ -1,0 +1,25 @@
+EXPLICACION DE CONCEPTOS:
+
+VARIABLE: Una variable es una unidad de datos que puede cambiar de valor, a su vez es la forma mas 
+simple de almacenar elementos de datos para utilizarlos mas tarde. Son componentes importantes de 
+cualquier programa.
+STRINGS: Es una cadena de caracteres, la forma mas sencilla de defirnirla es cerrandolo entre comillas
+simples o dobles, de lo contrario el interprete podria considerarlo una variable.
+FUNCIONES (ARGUMENTOS, RETURN): Son una parte muy importante de todo tipo de lenguaje de
+programaciòn, describen una secuisecuencia de ordenes las cuales cumplen con una tarea especìfica  y esta
+puede retornar un valor o no.
+Pueden tener parametros o argumentos que son variables que se encargan de modificar su comportamiento. Gracias
+a las funciones podemos segmentar el còdigo en distintas partes haciendo que este sea màs sencillo.
+Las funciones pueden tener a su vez argumentos, estos son como variables que declaramos adentro de la funciòn 
+que van a tomar un valor cuando yo invoque la funciòn.
+Las Funciones de Retorno; las funciones devuelven valores, estos pueden ser retornados  o devueltos por una
+palabra clave llamada return. Esta palabra finaliza la ejecucion de la funcion retornando un valor. Si olvidamos 
+colocar la palabra return la funcion nos retornara "undefined" por defecto.
+DECLARACIONES If: cuando se programe con condicionales, no todo lo que programemos se va a ejecutar, ya que habrà
+partes del codigo que se ejecutaran dependiendo de los condicionales, los cuales van a determinar si una condiciòn
+es correcta o no para poder ejecutar cierta parte del còdigo o no.
+Tenemos la declaraciòn If y entre parentesis la condiciòn que se va a comprobar si es verdadera o no para 
+para ejecutar la acciòn. 
+VALORES BOOLEANOS (TRUE, FALSE): Una variable  booleana  se usan para almacenar informaciòn que puede tener 
+dos estados, del tipo si/no,cumple/no cumple, verdadero/falso por ejemplo y se emplean para evaluar si cumplen 
+condiciones mediante if else.
