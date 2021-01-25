@@ -1,0 +1,23 @@
+`for`: Nos va a yudar a repetir un bucle de codigos muchas veces, es una foma sencilla de hacer algo repetidas
+veces. Se repite hasta que la condicion especificada sea 
+"false", tiene 3 partes:
+for (expresion inicial; condicion; expresion incremento)¨{sentencia}
+Expresion Inicial: va a contar la cantidad de repeticiones. Esta expresion inicializa el contador de bucles.
+Condicion: cuando el valor es true, se ejecuta la sentencia, cuando es false, el bucle finaliza.
+Expresion incremento: incrementa el valor de la expresion inicial y vuelve al paso 2.
+Sentencia: Se ejecuta si la condicion es true.
+ Operadores Logicos: 
+`&&` (AND//y): Funciona con un valor verdadero y para que eso se de ambas condiciones deben ser true. Eejmplo:
+a=true && b=true = true
+a=true && b=false = false
+a=false && b=true = false
+a=false && b=false= false
+`||`(OR/o): funciona con que una de las condiciones sea verdaderas. Ejemplo:
+a=true || b=true = true
+a=true || b=false = true
+a=false || b=true = true
+a=false || b=false= false
+`!` ((NOT//no): cuando aparezca delante de la expresion, significa que estamos preguntando lo contrario.
+Ejemplo:
+!a=true=> false
+!a=false= true
