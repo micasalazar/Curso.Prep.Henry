@@ -1,0 +1,3 @@
+Arrays: son una lista de elementos, esos elementos pueden ser los tipos de datos: strings, numeros, booleanos, null,
+undefined, simbols, object..). Se define:
+var array=[elementos] ==> var array =[1,'mica',undefined]
